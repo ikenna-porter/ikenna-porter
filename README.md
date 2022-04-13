@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ikenna Porter
+- 👀 I’m interested in coding, fitness and travel.
+- 🌱 I’m currently learning full-stack development
